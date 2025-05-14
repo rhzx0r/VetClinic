@@ -37,7 +37,7 @@
 
 ## Clona el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/rhzx0r/VetClinic.git
    cd VetClinic
 
 ## 🖥️ Frontend
