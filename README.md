@@ -1,6 +1,6 @@
 # 🐾 VetClinic - Plataforma de Gestión de Citas de Mascotas
 
-**VetClinic** es una aplicación web diseñada para facilitar la gestión de citas entre usuarios y profesionales del área médica, legal u otras especialidades. Esta plataforma permite a los usuarios registrarse con una cuenta personal para agendar citas, y a los profesionales crear un perfil para ofrecer sus servicios.
+**VetClinic** es una aplicación web diseñada para facilitar la gestión de citas para profesionales del área médica veterinaria. Esta plataforma permite a los usuarios registrar y agendar citas con los dueños de los animales y llevar un registro y seguimiento del paciente mascota.
 
 ## 📌 Características principales
 
